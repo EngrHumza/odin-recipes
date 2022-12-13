@@ -1,3 +1,6 @@
 # odin-recipes
-Project odin-recipes is the first project assigned by Odin Project
-Set up your README.md file and write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
+This is the Odin-Recipes project, It has covered the fundamental of html
+I learned to create headings, paragraphs, and links to html file
+I also learned to add images to the html files
+The whole project is uploaded on git
+I have kept track of all changes and commited every time i make a change
